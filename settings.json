@@ -6,13 +6,13 @@
   },
 
   "server": {
-    "ip": "localhost",
+    "ip": "34.87.190.174",
     "port": 25565,
-    "version": "1.19.3"
+    "version": "1.20.4"
   },
 
   "position": {
-    "enabled": false,
+    "enabled": true,
     "x": 0,
     "y": 0,
     "z": 0
